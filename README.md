@@ -12,3 +12,14 @@ The solver follows a standard FEM workflow to:
 
 ## My Role
 As part of a collaborative team, I focused on understanding and documenting the computational workflow. I studied how the global stiffness matrix is assembled and how the numerical solution is obtained, and helped organize the code and explanation of the overall pipeline.
+
+## Usage
+To run the solver, ensure NumPy and Matplotlib are installed.
+
+```bash
+python FEM_TeamA_1D_Frame_Code.py
+```
+
+The program will prompt for the input file path.
+
+Sample input and output files are provided in the `samples/` directory for reference.
